@@ -1,3 +1,4 @@
-# Automated-teller-machine
-Automated teller machine program that lets user do all those tasks that a real life ATM would allow us to do. Works on C++ 17 (coded by a student who is very new to this language)
+# Ball Location calculation (?)
+It is program that calculates the location of a ball dropped by a height given by the user (in m) in 5 seconds max. 
+Works on C++ 17 (coded by a student who is very new to this language)
 https://github.com/rezuwii/Automated-teller-machine
